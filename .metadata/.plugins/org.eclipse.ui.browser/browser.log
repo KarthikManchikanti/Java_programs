@@ -1,0 +1,81 @@
+
+May 03, 2020 17:02:42.52 NEW SESSION
+May 03, 2020 17:02:42.52 [5956:11468:0503/170242.517:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 03, 2020 17:02:48.48 [5956:11468:0503/170248.481:ERROR:device_event_log_impl.cc(162)] [17:02:48.480] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 03, 2020 17:07:33.86 [3824:316:0503/170733.861:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 03, 2020 17:07:44.41 [3824:316:0503/170744.418:ERROR:device_event_log_impl.cc(162)] [17:07:44.418] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 05, 2020 11:21:37.30 NEW SESSION
+May 05, 2020 11:21:37.30 [5804:4788:0505/112137.298:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 11:21:43.06 [5804:4788:0505/112143.061:ERROR:device_event_log_impl.cc(162)] [11:21:43.060] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 11:23:28.75 [2952:6480:0505/112328.756:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 11:23:35.46 [2952:6480:0505/112335.464:ERROR:device_event_log_impl.cc(162)] [11:23:35.464] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 12:45:26.00 [2952:2412:0505/124526.008:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+May 05, 2020 20:57:38.40 NEW SESSION
+May 05, 2020 20:57:38.40 [9200:5216:0505/205738.404:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 20:57:45.83 [9200:5216:0505/205745.832:ERROR:device_event_log_impl.cc(162)] [20:57:45.832] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 21:05:00.99 [7876:12260:0505/210500.998:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 21:05:07.73 [7876:12260:0505/210507.736:ERROR:device_event_log_impl.cc(162)] [21:05:07.736] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 05, 2020 21:26:07.54 NEW SESSION
+May 05, 2020 21:26:07.54 [11596:15132:0505/212607.544:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 21:26:14.31 [11596:15132:0505/212614.319:ERROR:device_event_log_impl.cc(162)] [21:26:14.319] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 21:26:37.06 [9348:6320:0505/212637.067:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 21:26:46.60 [9348:6320:0505/212646.605:ERROR:device_event_log_impl.cc(162)] [21:26:46.606] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 21:28:25.58 [10548:13344:0505/212825.582:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 21:28:29.31 [10548:13344:0505/212829.312:ERROR:device_event_log_impl.cc(162)] [21:28:29.312] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 05, 2020 21:31:29.46 [7648:12968:0505/213129.462:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 21:31:30.67 [7648:12968:0505/213130.673:ERROR:device_event_log_impl.cc(162)] [21:31:30.672] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 05, 2020 22:22:59.72 NEW SESSION
+May 05, 2020 22:22:59.72 [1480:5196:0505/222259.722:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 05, 2020 22:23:08.72 [1480:5196:0505/222308.725:ERROR:device_event_log_impl.cc(162)] [22:23:08.726] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 06, 2020 20:28:34.52 NEW SESSION
+May 06, 2020 20:28:34.52 [13944:5240:0506/202834.521:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 06, 2020 20:28:43.66 [13944:5240:0506/202843.660:ERROR:device_event_log_impl.cc(162)] [20:28:43.660] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 06, 2020 21:05:42.63 [2248:2592:0506/210542.633:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 06, 2020 21:05:49.25 [2248:2592:0506/210549.252:ERROR:device_event_log_impl.cc(162)] [21:05:49.252] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 06, 2020 21:31:36.07 [15212:13464:0506/213136.073:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 06, 2020 21:31:41.73 [15212:13464:0506/213141.732:ERROR:device_event_log_impl.cc(162)] [21:31:41.732] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 06, 2020 21:45:13.59 [7408:8576:0506/214513.593:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 06, 2020 21:45:22.37 [7408:8576:0506/214522.370:ERROR:device_event_log_impl.cc(162)] [21:45:22.371] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 08, 2020 19:31:54.56 NEW SESSION
+May 08, 2020 19:31:54.56 [12024:2468:0508/193154.567:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 08, 2020 19:32:01.51 [12024:2468:0508/193201.514:ERROR:device_event_log_impl.cc(162)] [19:32:01.513] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 08, 2020 20:06:18.79 [3012:10580:0508/200618.796:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 08, 2020 20:06:21.53 [3012:10580:0508/200621.531:ERROR:device_event_log_impl.cc(162)] [20:06:21.531] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 09, 2020 21:23:52.32 NEW SESSION
+May 09, 2020 21:23:52.32 [1992:7780:0509/212352.323:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 09, 2020 21:23:56.75 [1992:7780:0509/212356.757:ERROR:device_event_log_impl.cc(162)] [21:23:56.757] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 10, 2020 17:10:46.42 NEW SESSION
+May 10, 2020 17:10:46.42 [5836:14016:0510/171046.421:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 10, 2020 17:10:56.64 [5836:14016:0510/171056.649:ERROR:device_event_log_impl.cc(162)] [17:10:56.649] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 10, 2020 19:21:01.83 [6240:13928:0510/192101.839:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 10, 2020 19:21:15.65 [6240:13928:0510/192115.654:ERROR:device_event_log_impl.cc(162)] [19:21:15.653] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+May 11, 2020 19:28:53.67 NEW SESSION
+May 11, 2020 19:28:53.67 [6500:13824:0511/192853.675:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 11, 2020 19:28:59.37 [6500:13824:0511/192859.374:ERROR:device_event_log_impl.cc(162)] [19:28:59.374] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 11, 2020 19:47:41.27 [6500:14696:0511/194741.270:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+May 13, 2020 14:36:04.00 NEW SESSION
+May 13, 2020 14:36:04.00 [13136:13512:0513/143604.001:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 14:36:12.37 [13136:13512:0513/143612.375:ERROR:device_event_log_impl.cc(162)] [14:36:12.374] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 13, 2020 14:46:13.35 [896:6012:0513/144613.358:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 14:46:22.05 [896:6012:0513/144622.057:ERROR:device_event_log_impl.cc(162)] [14:46:22.057] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 13, 2020 14:59:01.74 [7636:5964:0513/145901.746:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 14:59:13.49 [7636:5964:0513/145913.490:ERROR:device_event_log_impl.cc(162)] [14:59:13.490] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 13, 2020 15:01:07.41 [15272:3500:0513/150107.411:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 15:01:18.10 [15272:3500:0513/150118.104:ERROR:device_event_log_impl.cc(162)] [15:01:18.104] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 13, 2020 15:03:45.08 [8792:9360:0513/150345.085:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 15:03:49.84 [8792:9360:0513/150349.844:ERROR:device_event_log_impl.cc(162)] [15:03:49.843] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+May 13, 2020 16:09:29.38 [1984:9884:0513/160929.382:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 13, 2020 16:09:40.35 [1984:9884:0513/160940.358:ERROR:device_event_log_impl.cc(162)] [16:09:40.358] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
+
+Jun 09, 2020 16:59:46.47 NEW SESSION
+Jun 09, 2020 16:59:46.47 [7896:10444:0609/165946.477:ERROR:device_event_log_impl.cc(208)] [16:59:46.477] Bluetooth: bluetooth_adapter_winrt.cc:1150 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.

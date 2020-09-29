@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="&#x09;public Alien()"/>
+		<list key="findhistory">
+			<item value="&#x09;public Alien()"/>
+			<item value="&lt;servlet&gt;"/>
+			<item value="  Class.forName(&quot;com.mysql.jdbc.Driver&quot;); "/>
+		</list>
+	</section>
+</section>

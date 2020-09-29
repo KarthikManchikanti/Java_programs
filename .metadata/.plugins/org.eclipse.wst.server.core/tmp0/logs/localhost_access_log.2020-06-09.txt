@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Jun/2020:16:59:30 -0400] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:16:59:40 -0400] "GET /springMVC/ HTTP/1.1" 404 723
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:16:59:43 -0400] "GET /favicon.ico HTTP/1.1" 404 720
+127.0.0.1 - - [09/Jun/2020:17:30:10 -0400] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:30:11 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:30:21 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+127.0.0.1 - - [09/Jun/2020:17:32:29 -0400] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:32:40 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:32:40 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:32:40 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:32:41 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Jun/2020:17:32:41 -0400] "GET /springMVC/WEB-INF/classes/springMVCBoot/HomeController.java HTTP/1.1" 404 682
